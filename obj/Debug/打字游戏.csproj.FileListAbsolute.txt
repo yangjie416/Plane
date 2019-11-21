@@ -1,0 +1,9 @@
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\bin\Debug\打字游戏.exe.config
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\bin\Debug\打字游戏.exe
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\bin\Debug\打字游戏.pdb
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\obj\Debug\打字游戏.csprojAssemblyReference.cache
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\obj\Debug\打字游戏.Form1.resources
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\obj\Debug\打字游戏.Properties.Resources.resources
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\obj\Debug\打字游戏.csproj.GenerateResource.cache
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\obj\Debug\打字游戏.exe
+D:\c#学习作业\2019-11-12\打字游戏\打字游戏\obj\Debug\打字游戏.pdb
